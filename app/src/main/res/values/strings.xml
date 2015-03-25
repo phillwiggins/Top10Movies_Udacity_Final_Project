@@ -1,0 +1,43 @@
+<resources>
+    <!-- Main App Details -->
+    <string name="app_name">Top10Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Force Refresh</string>
+    <string name="title_activity_detail_fragment">DetailFragment</string>
+
+    <!-- Movie List String -->
+    <string name="list_subtitle_text">Currently displaying top 10 box office earning movies, Sorted by most recent weekend gross ticket sales.</string>
+    <string name="list_title">Top 10 Box Office Movies</string>
+    <string name="list_by">Data by RottenTomatoes.com</string>
+
+    <!--Film Detail Strings -->
+    <string name="action_share">Share</string>
+    <string name="share_first">Check out this Top 10 box office film - </string>
+    <string name="share_middle"> Rated: </string>
+    <string name="share_end">/100 by the critics.</string>
+    <string name="film_start">Please select a film for more details.</string>
+
+    <!--Film List Fragment-->
+    <string name="selected_key">selected_position</string>
+
+    <!--FilmCursorAdapter-->
+    <string name="minutes">minutes</string>
+    <string name="critics">Critics Rating: </string>
+    <string name="audience">Audience Rating: </string>
+
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">topmovies.sunshine.purewowstudio.com</string>
+    <string name="content_authority">com.purewowstudio.topmovies.data.FilmProvider</string>
+    <string name="notification_top">New Top 10 Film: </string>
+    <string name="notification_middle">Critics give it a score of </string>
+
+    <!-- Preferences Screen -->
+    <string name="pref_title">Settings</string>
+    <string name="pref_enable_notifications_key" translatable="false">enable_notifications</string>
+    <string name="pref_enable_notifications_label">Top Film Notifications</string>
+    <string name="pref_enable_notifications_true">Enabled</string>
+    <string name="pref_enable_notifications_false">Not Enabled</string>
+    <string name="pref_enable_notifications_default" translatable="false">true</string>
+    <string name="pref_last_notification">last_notification</string>
+
+</resources>

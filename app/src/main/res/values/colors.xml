@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color Bars -->
+    <color name="film_primary">#2D2D2D</color>
+    <color name="film_primary_dark">#242424</color>
+
+    <!-- ListView -->
+    <color name="list_text">#AAAAAA</color>
+    <color name="list_title_text">#E2CF8B</color>
+    <color name="list_background">#373739</color>
+    <color name="list_subtitle">#DFDFDF</color>
+    <color name="list_by">#929292</color>
+
+</resources>
